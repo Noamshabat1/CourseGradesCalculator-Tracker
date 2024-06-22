@@ -49,7 +49,7 @@ Follow the on-screen prompts to interact with the application.
 - **Exit**: Exit the application.
 
 ## Example
-```sh
+```
 Enter command (add, remove, update, display, exit): add
 Enter course name: Introduction to AI
 Enter course points: 5
