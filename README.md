@@ -65,11 +65,11 @@ Filter by (type or leave blank): CS
 +----------------------+--------+-------+------+
 |Software Engineering  |   4    |  96   |  CS  |
 |Cryptography          |   4    |  87   |  CS  |
-|Introduction to AI    |   5    |  90   |  CS  |
+|Introduction to AI    |   5    |  84   |  CS  |
 +----------------------+--------+-------+------+
-Your total number of courses is: 10
-Your total Points are: 50
-Your average grade is: 85.4
+Your total number of courses is: 3
+Your total Points are: 13
+Your average grade is: 89
 ```
 
 ## Contributing
