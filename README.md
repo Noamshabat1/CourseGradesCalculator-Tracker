@@ -38,6 +38,8 @@ An interactive Python application designed to manage student courses, calculate 
 Run the application with:
 ```sh
 python Grades_Calculator.py
+```
+Follow the on-screen prompts to interact with the application.
 
 ## Commands
 - **Add Course**: Add a new course by providing its details.
@@ -47,7 +49,7 @@ python Grades_Calculator.py
 - **Exit**: Exit the application.
 
 ## Example
-\`\`\`sh
+```sh
 Enter command (add, remove, update, display, exit): add
 Enter course name: Introduction to AI
 Enter course points: 5
@@ -61,14 +63,14 @@ Filter by (type or leave blank): CS
 +----------------------+--------+-------+------+
 |        Course        | Points | Grade | Type |
 +----------------------+--------+-------+------+
-|  Software Engineering|   4    |  96   |  CS  |
-|Introduction to Cryptography|   4    |  87   |  CS  |
+|Software Engineering  |   4    |  96   |  CS  |
+|Cryptography          |   4    |  87   |  CS  |
 |Introduction to AI    |   5    |  90   |  CS  |
 +----------------------+--------+-------+------+
 Your total number of courses is: 10
 Your total Points are: 50
 Your average grade is: 85.4
-\`\`\`
+```
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit pull requests for any enhancements, bug fixes, or new features.
