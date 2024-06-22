@@ -21,7 +21,7 @@ An interactive Python application designed to manage student courses, calculate 
 ## Installation
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/YourUsername/CourseTracker.git
+    git clone https://github.com/Noamshabat1/CourseGradesCalculator-Tracker.git
     cd CourseTracker
     ```
 2. **Create and Activate Virtual Environment**:
