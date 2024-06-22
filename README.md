@@ -37,4 +37,4 @@ An interactive Python application designed to manage student courses, calculate 
 ## Usage
 Run the application with:
 ```sh
-python calculator.py
+python Grades_Calculator.py
