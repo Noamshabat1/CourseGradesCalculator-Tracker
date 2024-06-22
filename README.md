@@ -1,4 +1,4 @@
-# CourseTracker
+# CourseGradesCalculator-Tracker
 
 An interactive Python application designed to manage student courses, calculate average grades, and display course information. Features include adding, removing, updating, and sorting courses with an intuitive command-line interface.
 
@@ -22,7 +22,7 @@ An interactive Python application designed to manage student courses, calculate 
 1. **Clone the Repository**:
     ```sh
     git clone https://github.com/Noamshabat1/CourseGradesCalculator-Tracker.git
-    cd CourseTracker
+    cd CourseGradesCalculator-Tracker
     ```
 2. **Create and Activate Virtual Environment**:
     ```sh
