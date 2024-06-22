@@ -143,53 +143,19 @@ def display_info(student):
 
 
 def main():
+    # Add the all of your courses here!
     Courses_list = [
         # CS Courses:
-        Course("Introduction To Computer Science", 7, 82, "CS"),
-        Course("Data Structures", 4, 80, "CS"),
-        Course("C & C++", 4, 86, "CS"),
-        Course("Introduction to OOP", 4, 91, "CS"),
-        Course("Computational Models computability and complexity", 5, 68, "CS"),
-        Course("Introduction to Cryptography", 4, 87, "CS"),
-        Course("Software Engineering", 4, 96, "CS"),
-        Course("From Nand To Tetris", 5, 79, "CS"),
-        Course("Algorithms", 5, 67, "CS"),
-        # Course("Databases", 5, , "CS"),
-        # Course("Operating Systems", 4, , "CS"),
-        # Course("A Guide for Information Revolutionists", 2, , "CS"),
-        # Course("", , , "CS"),
-        # Course("", , , "CS"),
-        # Course("", , , "CS"),
-        # Course("", , , "CS"),
-        # Course("Introduction to Machine Learning", 5, , "CS"),
+        Course("Introduction To Computer Science", 7, 100, "CS"),
+        # add here ..
 
         # Math Courses:
-        Course("Infinitesimal Calculus 1", 7, 64, "Math"),
-        Course("Infinitesimal Calculus 2", 7, 60, "Math"),
-        Course("Linear Algebra 1", 6, 65, "Math"),
-        Course("Linear Algebra 2", 6, 84, "Math"),
-        Course("Discrete Mathematics", 5, 60, "Math"),
-        Course("Probability", 6, 62, "Math"),
-
-        # Earth Courses:
-        Course("INTRODUCTION TO CLIMATE", 4, 77, "Earth"),
-        Course("THE DYNAMIC EARTH", 4, 90, "Earth"),
-        Course("GEOLOGICAL EXCURSION IN THE NEGEV", 1.5, 91, "Earth"),
-        # Course("INTRODUCTION TO OCEANOGRAPHY", 3, , "Earth"),
-        # Course("", , , "Earth"),
-        # Course("", , , "Earth"),
-        # Course("", , , "Earth"),
-        # Course("", , , "Earth"),
-        # Course("", , , "Earth"),
-        # Course("", , , "Earth"),
-        # Course("", , , "Earth"),
-        # Course("", , , "Earth"),
+        Course("Infinitesimal Calculus 1", 7, 82, "Math"),
+        # add here ..
 
         # Corner Stone Courses:
-        Course("Sex With Elephants", 2, 99, "Corner Stone"),
-        Course("Design Driven Innovation", 2, 100, "Corner Stone"),
-        # Course("Hope: Human Odyssey to Political Existentialism", 2, 100 , "Corner Stone"),
-        # Course("Engineer your Entrepreneurship", 2, 98 , "Corner Stone"),
+        Course("Sex With Elephants", 2, 100, "Corner Stone"),
+        # add here ..
     ]
 
     student = Student("Noam Shabat", Courses_list)
