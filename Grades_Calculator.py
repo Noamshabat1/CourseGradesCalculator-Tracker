@@ -158,7 +158,7 @@ def main():
         # add here ..
     ]
 
-    student = Student("Noam Shabat", Courses_list)
+    student = Student("Student Name", Courses_list)
     while True:
         try:
             command = input("Enter command (add, remove, update, display, exit): ")
